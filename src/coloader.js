@@ -5,7 +5,6 @@
  *  https://github.com/e-x/CoLoader
  */
 
-
 'use strict';
 
 var scripts = ["script1","script2","script3"];
