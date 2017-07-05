@@ -1,7 +1,7 @@
 # CoLoader
 
     Chain loader.
-    Load javascripts files one by one.
+    Load javascript files one by one.
 
 Usage
 
